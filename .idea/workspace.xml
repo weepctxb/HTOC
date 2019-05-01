@@ -4,7 +4,14 @@
     <bookmark url="file://$PROJECT_DIR$/htoc_partsysident.py" line="0" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5e5fac1a-7654-4995-9579-faf4c89cfa6a" name="Default Changelist" comment="" />
+    <list default="true" id="5e5fac1a-7654-4995-9579-faf4c89cfa6a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HTOC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/htoc_optimizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/htoc_optimizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/htoc_partsysident.py" beforeDir="false" afterPath="$PROJECT_DIR$/htoc_partsysident.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,15 +62,25 @@
           <entry key="project.opened" value="1" />
         </counts>
       </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="20" />
+        </counts>
+      </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/htoc_partsysident.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="16">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="80">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -71,21 +88,24 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/htoc_optimizer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+            <state relative-caret-position="80">
+              <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
               <folding>
                 <element signature="e#621#639#0" expanded="true" />
-                <marker date="1556709342590" expanded="true" signature="3165:3178" ph="..." />
+                <marker date="1556715811824" expanded="true" signature="3176:3189" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+            <state relative-caret-position="80">
+              <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="10" />
+              <folding>
+                <element signature="e#621#668#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -117,13 +137,13 @@
       <list>
         <option value="$PROJECT_DIR$/htoc_psi.py" />
         <option value="$PROJECT_DIR$/htoc.py" />
-        <option value="$PROJECT_DIR$/htoc_partsysident.py" />
-        <option value="$PROJECT_DIR$/htoc_optimizer.py" />
         <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/htoc_optimizer.py" />
+        <option value="$PROJECT_DIR$/htoc_partsysident.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="240" />
     <option name="y" value="213" />
     <option name="width" value="1440" />
@@ -237,7 +257,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="33" width="1295" height="695" extended-state="7" />
+    <frame x="-7" y="33" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2535771" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -279,28 +300,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="10" />
+          <folding>
+            <element signature="e#621#668#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/htoc_optimizer.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="48">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        <state relative-caret-position="80">
+          <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
           <folding>
             <element signature="e#621#639#0" expanded="true" />
-            <marker date="1556709342590" expanded="true" signature="3165:3178" ph="..." />
+            <marker date="1556715811824" expanded="true" signature="3176:3189" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/htoc_partsysident.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="16">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="39" lean-forward="true" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        <state relative-caret-position="80">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>

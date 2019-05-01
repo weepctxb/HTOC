@@ -3,6 +3,7 @@ This code is written from scratch based on the algorithm as outlined in
 "Development of a Model-free Hamiltonian Tracking Optimal Control Algorithm"
 by Jinkun LEE from Pennsylvania State University (2014).
 This implementation allows for multivariable state vectors and scalar input.
+April 2019
 """
 
 import numpy as np
