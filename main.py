@@ -1,6 +1,6 @@
 """
 This code is written from scratch based on the algorithm as outlined in
-"Development of a git remote add origin https://github.com/EPCTechnologies/HTOC.git Algorithm"
+"Development of a Model-free Hamiltonian Tracking Optimal Control Algorithm"
 by Jinkun LEE from Pennsylvania State University (2014).
 This implementation allows for multivariable state vectors and scalar input.
 """
